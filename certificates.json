@@ -1,0 +1,14 @@
+[
+  {
+    "certificate_id": "DEVS9A2B8C4D", 
+    "name": "Arun Kumar",
+    "college": "SRM University",
+    "email": "arun@gmail.com"
+  },
+  {
+    "certificate_id": "DEVSA7X8P9Q7",
+    "name": "Riya Sharma",
+    "college": "Anna University",
+    "email": "riya@gmail.com"
+  }
+]
